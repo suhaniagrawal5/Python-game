@@ -13,4 +13,5 @@ The game ends when all flags are collected
 
 Tech Stack:
 Language: Python
+
 Library: Pygame
